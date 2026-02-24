@@ -7,7 +7,7 @@ Bu proje, modern ve kullanıcı dostu bir seyahat acentesi web sitesi arayüzüd
 Proje, Bootstrap veya Tailwind gibi hazır CSS kütüphaneleri ve frameworkleri kullanılmadan, tamamen CSS teknikleri ile geliştirilmiştir. Ticari bir amacı yoktur, kişisel gelişim ve eğitim odaklı hazırlanmıştır. 
 
 ## Canlı Demo
-Projeyi canlı incelemek için: **(https://kaoss7r9er.github.io/floratravel.github.io/)**
+Projeyi canlı incelemek için: **(https://kaoss7r9er.github.io/Flora-Travel/)**
 
 ## Kullanılan Teknolojiler
 * **HTML5:** Semantik yapı ve içerik düzeni.
